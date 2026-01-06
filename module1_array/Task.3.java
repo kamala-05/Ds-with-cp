@@ -9,7 +9,7 @@ class Node{
         System.out.println(data);
     }
     public static void main(String[] args){
-        System.out.println("hill");
+        System.out.println("kamala");
         Node a= new Node(100);
         System.out.println(a);
         a.getData();
